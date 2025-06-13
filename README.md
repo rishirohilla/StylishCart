@@ -38,5 +38,5 @@ Users can browse, favorite, and purchase items, while an admin panel allows effi
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yellurividyendra/StylishCart.git
+   git clone https://github.com/rishirohilla/StylishCart.git
    cd StylishCart
